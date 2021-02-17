@@ -1,5 +1,5 @@
 # Trax-tutorial
-simple tutorials to familiarize with TRAX library
+simple tutorials to familiarize with TRAX language for building, training and running Machine Learning models
 
 
 Trax is a new library developped and maintained by Google Brain. It uses tensorflow and JAX (enhanced version of numpy).
