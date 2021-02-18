@@ -12,3 +12,6 @@ Trax manual can be found [here](https://trax-ml.readthedocs.io/en/latest/).
 These tutorials are extracted from [Course 3](https://www.coursera.org/learn/sequence-models-in-nlp/home/welcome) of DeepLearning AI NLP specialization on Coursera.
 
 Trax can use TPU on Colab seamlessly.
+
+
+A sample implementation of TRAX is illustrated in a Sentiment classifier for tweets.
